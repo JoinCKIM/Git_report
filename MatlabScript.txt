@@ -1,3 +1,5 @@
 1- Script Introduction
 
 MatlabScript-Dividing Function
+
+MatlabScript-Multiplying Function
