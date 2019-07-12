@@ -2,4 +2,4 @@
 
 MatlabScript-Dividing Function
 
-MatlabScript-Multiplying Function
+MatlabScript-Multiplying Function  
