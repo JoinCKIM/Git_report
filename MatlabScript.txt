@@ -3,3 +3,5 @@
 MatlabScript-Dividing Function
 
 MatlabScript-Multiplying Function  
+
+Exponential Fn
